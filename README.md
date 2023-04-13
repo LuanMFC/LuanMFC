@@ -10,11 +10,7 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanMFC&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 <div style="display: inline_block"><br>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
-  <img align="center" height="30" width="40"  src ="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-  <img align="center"  height="44" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-  <img align="center"  height="44" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">             
+  [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)            
 </div>
  
   ##
