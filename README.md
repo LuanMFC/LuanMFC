@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/LuanMFC">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LuanMFC&show_icons=true&theme=algolia&count_private=true&include_al_commits=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LuanMFC&show_icons=true&theme=algolia&count_private=true&include_all_commits=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanMFC&layout=compact&langs_count=7&theme=algolia"/>
 </div>
   
