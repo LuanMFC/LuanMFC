@@ -1,6 +1,6 @@
 ### Olá a todos, meu nome é Luan Matheus!👋
 
-- 🌱 Aprendendo Java Script.
+- 🌱 Aprendendo Python.
 - 📚 Estudei no Instituto Federal do Maranhão no curso técnico em informática.
 - 📚 Estou estudando Análise e Desenvolvimento de Sistemas na Unifacema
 
