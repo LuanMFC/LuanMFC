@@ -2,7 +2,6 @@
 
 - 🌱 Aprendendo Python.
 - 📚 Estudei no Instituto Federal do Maranhão no curso técnico em informática.
-- 📚 Estou estudando Análise e Desenvolvimento de Sistemas na Unifacema
 
 <div align="center">
   <a href="https://github.com/LuanMFC">
