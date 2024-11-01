@@ -14,5 +14,11 @@
 <p align="left">
     <img src="https://skillicons.dev/icons?i=django,react,ts,js,html,css,sass"/>
 </p>
+
+
+<h1>Certificações</h1>
+<p align="left">
+    <img src="https://drive.google.com/file/d/1_ATb6vhp52qX6hwi9bPpOKLRX_sE_vYJ/view?usp=drive_link"/>
+</p>
  
   #
