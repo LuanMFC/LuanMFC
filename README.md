@@ -1,7 +1,6 @@
 ### Olá a todos, meu nome é Luan Matheus!👋
 
-- 🌱 Aprendendo Python.
-- 📚 Estudei no Instituto Federal do Maranhão no curso técnico em informática.
+- 🌱 Estudando Django e Next.
 
 <div align="center">
   <a href="https://github.com/LuanMFC">
