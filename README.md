@@ -18,7 +18,7 @@
 
 <h1>Certificações</h1>
 <p align="left">
-    <img src="https://drive.google.com/file/d/1_ATb6vhp52qX6hwi9bPpOKLRX_sE_vYJ/view?usp=drive_link"/>
+    <img src="./scrum-foundation-professional-certification-sfpc.1.png"/>
 </p>
  
   #
