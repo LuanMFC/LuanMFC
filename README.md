@@ -15,7 +15,7 @@
     <img src="https://skillicons.dev/icons?i=django,react,ts,js,html,css,sass"/>
 </p>
 
-
+<br/>
 <h1>Certificações</h1>
 <p align="left">
     <img src="./scrum-foundation-professional-certification-sfpc.1.png"/>
